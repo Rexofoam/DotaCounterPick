@@ -1,3 +1,5 @@
-# Dota2CP
-Dota 2 Counter Picker App
-http://liangchunn.github.io/Dota2CP
+DOTA 2 COUNTER PICKING APP
+POOR CSS
+DECENT JAVASCRIPT 
+DATA FROM A DOTABUFF 2 SCRAPPER
+
