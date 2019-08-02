@@ -1,5 +1,6 @@
-DOTA 2 COUNTER PICKING APP
-POOR CSS
-DECENT JAVASCRIPT 
-DATA FROM A DOTABUFF 2 SCRAPPER
+# Dota 2 Counter Pick App
+### (Outdated)
 
+#### Simple AI, using massive if/else in loop
+#### Uses data scrapped from dotabuff as source data
+##### JavaScript, HTML, CSS
